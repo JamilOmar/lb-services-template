@@ -89,7 +89,7 @@
     "config": "^3.3.1",
     "express": "^4.17.1",
     "p-event": "^4.1.0",
-    "snyk": "^1.305.0",
+    "snyk": "^1.1024.0",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
