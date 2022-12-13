@@ -87,7 +87,7 @@
     "@loopback/rest-explorer": "^2.0.1",
     "@loopback/service-proxy": "^2.0.1",
     "config": "^3.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "p-event": "^4.1.0",
     "snyk": "^1.305.0",
     "tslib": "^1.10.0"
